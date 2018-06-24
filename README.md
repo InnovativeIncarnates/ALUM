@@ -1,1 +1,2 @@
 # ALUM
+A duo of android apps that caters to both the sellers’ as well as buyers’ needs. Buyers can create a shopping list and get notified when a shop near them has any of the items from that list. Sellers can advertise for free. These ads will be custom tailored for each buyer based on his/her shopping list, interests and location. Our revenue model does not charge the buyer. The location awareness is achieved using the mobile Wi-Fi.
